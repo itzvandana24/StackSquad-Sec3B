@@ -1,4 +1,4 @@
-# TaskNest 🌱
+# TaskNest 
 
 **A Student Task Management Application**
 
@@ -9,7 +9,7 @@ TaskNest is a proposed web application designed to help students organize, manag
 The objective of this project is to develop a simple and user-friendly application that helps students manage assignments, deadlines, priorities, and task completion.
 
 ## Current Status
-🚧 **Project proposal — awaiting tutor approval.**
+**Project proposal — awaiting tutor approval.**
 
 The requirements, technology stack, and implementation plan will be finalized after the project proposal is reviewed and approved.
 
